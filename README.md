@@ -34,7 +34,7 @@ In this study, we implement two data supplementation methods - spelling normaliz
     
 2. T5
   
-   We chose ```T5-base``` for further experiment on the Transformer-based model, due to its renounwed achievement on various text generation tasks. 
+   We chose ```T5-base``` for further experiment on the Transformer-based model, due to its reknowned achievement on various text generation tasks. 
 
 ## Training Details
 1. Preprocessing
